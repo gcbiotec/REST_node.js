@@ -1,0 +1,17 @@
+{
+  "name": "ms-authentication",
+  "version": "1.0.0",
+  "description": "Microservice criado durante a aula Node da DIO",
+  "main": "./dist/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./",
+    "build": "tsc -p ."
+  },
+  "author": "gcbiotec",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.14.4",
+    "typescript": "^4.9.5"
+  }
+}  
